@@ -1,0 +1,2 @@
+class ExpeditionServiceError(Exception):
+    pass
